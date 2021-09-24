@@ -1,0 +1,16 @@
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.csproj.AssemblyReference.cache
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.AssemblyInfoInputs.cache
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.AssemblyInfo.cs
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\factoryPattern.exe
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\factoryPattern.deps.json
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\factoryPattern.runtimeconfig.json
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\factoryPattern.runtimeconfig.dev.json
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\factoryPattern.dll
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\ref\factoryPattern.dll
+C:\Users\hhkh\Documents\factoryPattern\bin\Debug\net5.0\factoryPattern.pdb
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.dll
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\ref\factoryPattern.dll
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.pdb
+C:\Users\hhkh\Documents\factoryPattern\obj\Debug\net5.0\factoryPattern.genruntimeconfig.cache
